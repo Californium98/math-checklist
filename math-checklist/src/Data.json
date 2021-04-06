@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Add/Sub/Mult/Div",
+    "img": "https://www.howtosayinchinese.com/wp-content/uploads/2017/10/Addition-Subtraction-Multiplication-Division-297x300.png",
+    "key": 1
+  },
+  {
+    "title": "Fractions",
+    "img": "https://realignhealth.com/wp-content/uploads/2019/10/1-4-letter-sticker.jpg",
+    "key": 2
+  },
+  {
+    "title": "Decimals",
+    "img": "https://scontent-amt2-1.xx.fbcdn.net/v/t31.0-8/p960x960/22179923_1114931791970135_8291882275226078722_o.png?_nc_cat=106&_nc_sid=85a577&_nc_ohc=gww1LTdDC2QAX_ntLs4&_nc_ht=scontent-amt2-1.xx&oh=41da582f3d7bad4d68c4b33a03579ee9&oe=5F80F68C",
+    "key": 3
+  },
+  {
+    "title": "Percentage",
+    "img": "https://www.disabled-world.com/pics/1/percent-sign.png",
+    "key": 4
+  },
+  {
+    "title": "Rates",
+    "img": "https://www.advsofteng.com/doc/cdjavadoc/images/simpleline.png",
+    "key": 5
+  },
+  {
+    "title": "Basic Equations",
+    "img": "https://blog.prepscholar.com/hubfs/Feature_variable.png",
+    "key": 6
+  },
+  {
+    "title": "Inequalities with Alebra",
+    "img": "https://www.flaticon.com/svg/static/icons/svg/43/43110.svg",
+    "key": 7
+  },
+  {
+    "title": "Basic understanding of angles",
+    "img": "https://www.netclipart.com/pp/m/281-2811946_3-7-right-triangle.png",
+    "key": 8
+  },
+  {
+    "title": "Pythagorian Theorem",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Pythagorean.svg/260px-Pythagorean.svg.png",
+    "key": 9
+  },
+  {
+    "title": "Pythagorian Theorem",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Pythagorean.svg/260px-Pythagorean.svg.png",
+    "key": 10
+  }
+]

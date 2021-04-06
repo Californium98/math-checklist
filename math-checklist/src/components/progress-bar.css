@@ -1,0 +1,35 @@
+.progress_bar {
+  margin-top: 100px;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 900px;
+  width: 90%;
+  height: 40px;
+  background-color: white;
+  border-radius: 10px;
+}
+
+.progress {
+  height: 40px;
+  background-color: #0acc5b;
+  margin-right: auto;
+  border-top-left-radius: 10px;
+  border-bottom-left-radius: 10px;
+}
+
+#rborder {
+  border-top-right-radius: 10px;
+  border-bottom-right-radius: 10px;
+}
+
+#nrborder {
+  border-top-right-radius: 0px;
+  border-bottom-right-radius: 0px;
+}
+
+.Total {
+  margin-top: 5px;
+  text-align: center;
+  font-size: 25px;
+  font-weight: bold;
+}
